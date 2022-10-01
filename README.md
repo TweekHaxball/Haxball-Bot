@@ -1,5 +1,5 @@
 # Commands
-!discord - Sends Discord Link
+!discord - Sends Discord Link \n
 !admin - Sends message to a discord channel "<playername> Calling For An Admin"
 !bye - Kicks You
 !pm <player id> <message>
