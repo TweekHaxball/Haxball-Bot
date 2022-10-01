@@ -131,13 +131,13 @@ The variables that you have to change (if you dont want to use, dont type anythi
 The variables that you have to change (your maps)
 
 
-var mapone = `your map codes here`; - Command For Open !map1
+var mapone = "your map codes here"; - Command For Open !map1
 
 
-var maptwo = `your map codes here`; - Command For Open !map2
+var maptwo = "your map codes here"; - Command For Open !map2
 
 
-var mapthree= `your map codes here; - Command For Open !map3
+var mapthree= "your map codes here"; - Command For Open !map3
 
 
 # Getting Help
