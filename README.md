@@ -46,6 +46,5 @@ The variables that you have to change (your maps)
 var mapone = `your map codes here`; - Command For Open !map1
 var maptwo = `your map codes here`; - Command For Open !map2
 var mapthree= `your map codes here`; - Command For Open !map3
-
-
-
+# Getting Help
+You can join to my discord server that we helping each other: https://discord.gg/RFp6Nmd4XK
