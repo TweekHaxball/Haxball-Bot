@@ -144,3 +144,4 @@ var mapthree= `your map codes here`; - Command For Open !map3
 
 
 You can join to my discord server that we helping each other: https://discord.gg/RFp6Nmd4XK
+The Video That I Explain How To Use This Script(İn Turkish): 
