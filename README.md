@@ -110,19 +110,19 @@ There Should Be No Spaces To The Right Or Left Of Your Name
 The variables that you have to change (if you dont want to use, dont type anything)
 
 
-var chatLogWebhookURL = "your webhook"; - For sending logs of chat to discord
+`var chatLogWebhookURL = "your webhook";` - For sending logs of chat to discord
 
 
-var adminWebhookURL = "your webhook"; - For sending "<playername Calling for an admin>"message to a discord channel
+`var adminWebhookURL = "your webhook";`` - For sending "<playername Calling for an admin>"message to a discord channel
 
 
-var sendBanWebhookUrl "your webhook"; - For sending ban announcement to a discord channel
+`var sendBanWebhookUrl "your webhook";` - For sending ban announcement to a discord channel
 
 
-var sendRecWebhookURL = "your webhook"; - For sending record of the match to a discord channel (with statistics and just sends if a team win the match)
+`var sendRecWebhookURL = "your webhook";` - For sending record of the match to a discord channel (with statistics and just sends if a team win the match)
 
 
-var sendLinkWebhookURL = "your webhook"; - When you opened your room it send room informations to a discord channel
+`var sendLinkWebhookURL = "your webhook";` - When you opened your room it send room informations to a discord channel
 
 
 # Maps
@@ -137,7 +137,7 @@ var mapone = `your map codes here`; - Command For Open !map1
 var maptwo = `your map codes here`; - Command For Open !map2
 
 
-`var mapthree= `your map codes here`; - Command For Open !map3`
+var mapthree= `your map codes here; - Command For Open !map3
 
 
 # Getting Help
