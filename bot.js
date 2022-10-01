@@ -76,11 +76,11 @@ var Team = {
 };
 
 //Webhoooks
-var chatLogWebhookURL = "https://discord.com/api/webhooks/1018529381888557106/gC1ThKy-Ucx1urgfvpzdoSvHSCNsx5x2a5IHwf1KHu8yL0gE87S25iJTxzKJB6GZq6jI";//webhookUrl for sned chat logs to discord (Should Be A Private Discord Channel)
-var adminWebhookURL = "https://discord.com/api/webhooks/1018529381888557106/gC1ThKy-Ucx1urgfvpzdoSvHSCNsx5x2a5IHwf1KHu8yL0gE87S25iJTxzKJB6GZq6jI";//webhookurl to sending call for admins (Should Be A Private Discord Channel)
-var sendBanWebhookUrl = "https://discord.com/api/webhooks/1018529381888557106/gC1ThKy-Ucx1urgfvpzdoSvHSCNsx5x2a5IHwf1KHu8yL0gE87S25iJTxzKJB6GZq6jI";//for sending ban logs to a discord channel(Can Be Private/Public [i Recomend Public])
-var sendRecWebhookURL = "https://discord.com/api/webhooks/1018529381888557106/gC1ThKy-Ucx1urgfvpzdoSvHSCNsx5x2a5IHwf1KHu8yL0gE87S25iJTxzKJB6GZq6jI";//webhookurl for sending match records to a discord channel(Should Be A Public Discord Channel)
-var sendLinkWebhookURL = "https://discord.com/api/webhooks/1018529381888557106/gC1ThKy-Ucx1urgfvpzdoSvHSCNsx5x2a5IHwf1KHu8yL0gE87S25iJTxzKJB6GZq6jI";//when you started to host the room, with this webhookurl it will send room link to a discord channel
+var chatLogWebhookURL = "";//webhookUrl for sned chat logs to discord (Should Be A Private Discord Channel)
+var adminWebhookURL = "";//webhookurl to sending call for admins (Should Be A Private Discord Channel)
+var sendBanWebhookUrl = "";//for sending ban logs to a discord channel(Can Be Private/Public [i Recomend Public])
+var sendRecWebhookURL = "";//webhookurl for sending match records to a discord channel(Should Be A Public Discord Channel)
+var sendLinkWebhookURL = "";//when you started to host the room, with this webhookurl it will send room link to a discord channel
 //colors for "sendAnnouncement"
 var colors = {
     red: 0xff0000,
