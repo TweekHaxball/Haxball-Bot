@@ -85,7 +85,7 @@
 # How To Be An Admin
 
 
-When room opend it send a random number to console, then you have to type  !claim [the admin password].
+When room opend it send a random number to console, then you have to type in the chat !claim [the admin password].
 
 
 # Features of bot
