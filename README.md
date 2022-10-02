@@ -90,6 +90,8 @@ When room opend it send a random number to console, then you have to type in the
 
 # Features of bot
 
+The last slot is reserved for Admins and VIPs
+
 
 5 second slow mode for players
 
