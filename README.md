@@ -29,6 +29,9 @@
 # Admin Commands
 
 
+## Moderation
+
+
 !mute [playerid]
 
 
@@ -50,6 +53,9 @@
 !rr - This command restarts game
 
 
+## Map Commands
+
+
 !map1
 
 
@@ -67,6 +73,8 @@
 
 !lineup - Lineup map for real soccer (it changes avatars of players)
 
+
+## Locking The Room
 
 !lock [password] - This command locks room
 
