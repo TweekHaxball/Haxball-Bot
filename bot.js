@@ -1092,11 +1092,11 @@ room.onPlayerJoin = function(player){
         localStorage.setItem(player.auth, JSON.stringify(stats));
     }
     stats = JSON.parse(localStorage.getItem(auth));
-    if(stats[8] == 1){
+    /*if(stats[8] == 1){
         room.kickPlayer(player.id, "✖️You Are Perma Banned✖️",true)
     }else {
         //nothing
-    }
+    }*/
     //  updateAdmins(); 
     if(vipPlayers.includes(player.auth)){
         vipList.add(player.id);
