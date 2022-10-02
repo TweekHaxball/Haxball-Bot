@@ -121,7 +121,7 @@ The variables that you have to change (if you dont want to use, dont type anythi
 `var chatLogWebhookURL = "your webhook";` - For sending logs of chat to discord
 
 
-`var adminWebhookURL = "your webhook";`` - For sending "<playername Calling for an admin>"message to a discord channel
+`var adminWebhookURL = "your webhook";` - For sending "<playername Calling for an admin>"message to a discord channel
 
 
 `var sendBanWebhookUrl "your webhook";` - For sending ban announcement to a discord channel
